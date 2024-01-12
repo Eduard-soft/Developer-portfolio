@@ -3,3 +3,5 @@ const Home = () => {
 };
 
 export default Home;
+
+// 27 min //Build a Portfolio Website With Next JS, Tailwind CSS & Framer Motion
