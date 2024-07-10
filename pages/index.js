@@ -1,3 +1,5 @@
+//https://youtu.be/qp0-L_M3Ad4
+
 // next image
 import Image from "next/image";
 
@@ -27,8 +29,8 @@ const Home = () => {
             animate='show'
             exit='hidden'
            className="h1">
-            Transforming Ideas <br /> Into {''}
-            <span className="text-accent">Digital Reality</span>
+            Идеи Трансформации <br /> В {' '}
+            <span className="text-accent">Цифровой Реальности</span>
            </motion.h1>
           {/* subtitle */}
           <motion.p 
@@ -37,12 +39,7 @@ const Home = () => {
           animate='show'
           exit='hidden'
           className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco 
-            laboris nisi ut aliquip ex ea commodo consequat. 
-            Duis aute irure dolor in reprehenderit in voluptate velit esse 
-            cillum dolore eu fugiat nulla pariatur. 
+            Как опытный профессионал в данной области, могу уверенно заявить, что способен предложить комплексное решение любых задач, связанных с веб-разработкой. Мои навыки включают в себя владение различными языками программирования, опыт работы с базами данных, архитектурой веб-приложений, а также умение глубоко анализировать и оптимизировать код. Я готов внести существенный вклад в развитие вашего проекта и обеспечить его успех и конкурентоспособность. С нетерпением жду возможности обсудить детали с вами и продемонстрировать мои навыки в действии. 
           </motion.p>
           {/* btn */}
           <div className="flex justify-center xl:hidden relative">
@@ -74,7 +71,7 @@ const Home = () => {
            animate='show'
            exit='hidden'
            transition={{ duration: 1, ease:'easeInOut'}}
-          className="w-full h-full max-w-[737px] max-h-[678px] absolute -bottom-32 lg:bottom-0 lg:right-[8%]"
+          className="w-full h-full max-w-[737px] max-h-[678px] absolute -bottom-32 lg:bottom-0 lg:right-[4%]"
         >
           <Avatar />
         </motion.div>
